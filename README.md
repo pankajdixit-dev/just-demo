@@ -1,4 +1,4 @@
 # just-demo
 This is my first Git Repositery.
 <br>
-Author - Pankaj Dixit
+Author - Pankaj Dixit (Mern)
